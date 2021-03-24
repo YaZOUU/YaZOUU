@@ -4,7 +4,6 @@
 <!--**YaZOUU/YaZOUU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-Here are some ideas to get you started:
 
 ![coding](http://cdn.lowgif.com/full/113448e7b0ab943e-.gif)
 - 🔭 I’m currently working on OTO's project, a website about playlists and songs
