@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with PHP
 - 💬 Ask me about anything i can answer
 - 📫 How to reach me: Twitter
-- ⚡ Fun fact: I like the wikknend
+- ⚡ Fun fact: I like the OTO website
 
